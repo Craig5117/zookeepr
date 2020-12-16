@@ -75,7 +75,7 @@ app.get('/api/animals/:id', (req, res) => {
             res.json(result);  
         }
         else {
-            res.send(404);
+            res.sendStatus(404);
         }
 });
 
