@@ -117,6 +117,27 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Sonic",
+      "species": "Hedgehog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Peaches",
+      "species": "Pikachu",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
