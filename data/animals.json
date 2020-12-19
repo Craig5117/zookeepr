@@ -138,6 +138,16 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "Marshall",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
